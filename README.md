@@ -19,4 +19,10 @@ Around 510,000 students in [65 economies](https://www.google.com/url?q=http://ww
 2. Is it better to have a child with a parent at home?
 3. Are the scores of students in different countries more high?
 4. Which countries have better scores in which subjects? (For example: Is the mathematics in Asian countries good? Is the European country reading well?)
-5. The more parents may represent the children at home, does it have anything to do with the child's score?
+
+### Insights
+
+1. Excluding the stereotypes of female students with poor mathematics, female students are not inferior to male students in mathematics, and are more prominent in reading.
+2. Parental companionship is helpful for students' learning. Students' learning grows only once, parents should not miss
+3. Different countries have strong and weak performances in different subjects. For example, Italy has a high reading score and is good in mathematics and science. China has high mathematics and weak reading.
+4. Comparing the scores of each country in each subject, it seems that Asian countries are more prominent in each subject.
